@@ -1,5 +1,5 @@
 # TestImageMagick
-**TestImageMagick - Test application using ImageMagic libraries.**
+**TestImageMagick - Test application with ImageMagic libraries. Using QtCreator**
 
 **Install ImageMagic libraries steps:**
 1. Load sources:<br/>
