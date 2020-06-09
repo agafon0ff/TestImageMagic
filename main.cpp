@@ -1,16 +1,3 @@
-/*
-wget https://www.imagemagick.org/download/ImageMagick.tar.gz
-tar xf ImageMagick.tar.gz
-cd ImageMagick-7*
-sudo apt-get install libpng-dev libjpeg-dev -y
-./configure --enable-shared
-make
-sudo make install
-sudo ldconfig /usr/local/lib
-identify -version
-make check
-*/
-
 #include <Magick++.h>
 #include <iostream>
 #include <vector>
