@@ -1,4 +1,4 @@
-# SimpleRemoteDesktop
+# TestImageMagick
 **TestImageMagick - Test application using ImageMagic libraries.**
 
 **Install ImageMagic libraries steps:**
